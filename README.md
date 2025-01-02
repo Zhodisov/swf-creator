@@ -25,3 +25,5 @@ Ce dossier contient les outils et les fichiers nécessaires pour compiler des sc
 ## Contact
 
 Discord : .jodis | Jodis#4214 | https://safemarket.xyz/
+
+Privacy from private to public
